@@ -106,6 +106,5 @@ install:
   - ./.travis/install.sh
 
 script:
-  - conan create . conan/testing --build missing
-  - #chmod +x .travis/run.sh
-  - #./.travis/run.sh
+  - chmod +x .travis/run.sh
+  - ./.travis/run.sh conan create . conan/testing --build missing
