@@ -4,8 +4,8 @@
 |:--------:|:---------:
 | Recipe License         | [![License: GPL v3](https://img.shields.io/badge/License-Bincrafters-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 | Source License         | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-| Linux Package Status   | [![Build status](https://ci.appveyor.com/api/projects/status/github/GavinNL/conan-vcglib?svg=true)](https://ci.appveyor.com/project/gavinNL/conan-vcglib)|
-| Windows Package Status | [![Build Status](https://travis-ci.org/gavinNL/conan-vcglib.svg)](https://travis-ci.org/GavinNL/conan-vcglib)|
+| Windows Package Status | [![Build status](https://ci.appveyor.com/api/projects/status/github/GavinNL/conan-vcglib?svg=true)](https://ci.appveyor.com/project/gavinNL/conan-vcglib)|
+| Linux Package Status   | [![Build Status](https://travis-ci.org/GavinNL/conan-vcglib.svg?branch=master)](https://travis-ci.org/GavinNL/conan-vcglib)|
 
 ## Conan Information
 
